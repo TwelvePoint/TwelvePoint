@@ -1,4 +1,4 @@
-![TwelvePoint](https://www.twelvept.com/config/img/FB-twelvepoint-banner.jpg?137CD325A1CD4510A40112911F769284)
+!(https://www.twelvept.com/config/img/FB-twelvepoint-banner.jpg?137CD325A1CD4510A40112911F769284)
 
 
 # TwelvePoint
