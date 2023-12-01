@@ -36,7 +36,7 @@ Over time TwelvePoint has been enriched with additional features such as:
   
 We hope you will like it and have fun with this new tool as much as we had developing it.
 
-# Latest release: TwelvePoint 1.9.5
+# Latest release: TwelvePoint 1.9.16
 
 ## Features
 *These features are available for both iOS or macOS version, where not specified.*
