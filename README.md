@@ -91,7 +91,7 @@ At the moment, there is no plan of extending the development to other platforms.
 This is mainly due to hardware limitations (sometimes software) that may prevent the app's key functionalities. 
 
 ## Learn more
-You can learn more about the most frequent questions posted by our users at: [F.A.Q.](https://www.twelvept.com/faq/en/questions/frequently-asked-questions.html)
+You can learn more about the most frequent questions posted by our users at: [F.A.Q.](https://www.twelvept.com/faq/en/questions/frequently-asked-questions.html) &nbsp; or you can listen to the podcasts on <a href="https://open.spotify.com/show/1oGk4haga41cFe8wtamJji?si=q5fDbxYYRm2RmT5UXts3TQ" target="_blank" style="color: #1DB954; text-decoration: none;">Spotify</a>
 
 Direclty contact us at: [Ask](ask@morepaths.com)
 
