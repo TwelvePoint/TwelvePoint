@@ -82,7 +82,6 @@ We have a roadmap dense with new functionalities and additional Multilingual sup
 
 TwelvePoint is available only within the Apple ecosystem (Macs, iPad, iPhone, iPod touch, Apple Vision Pro). 
 At the moment, there is no plan of extending the development to other platforms. 
-This is mainly due to hardware limitations (sometimes software) that may prevent the app's key functionalities. 
 
 ## Learn more
 You can learn more about the most frequent questions posted by our users at: [F.A.Q.](https://www.twelvept.com/faq/en/questions/frequently-asked-questions.html) &nbsp; or you can listen to the podcasts on <a href="https://open.spotify.com/show/1oGk4haga41cFe8wtamJji?si=q5fDbxYYRm2RmT5UXts3TQ" target="_blank" style="color: #1DB954; text-decoration: none;">Spotify</a>
