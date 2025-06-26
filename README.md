@@ -67,8 +67,6 @@ TwelvePoint is our latest creation. The result of years of studying and discussi
 Since 2017, TwelvePoint has become a valid alternative in the industry of script writing software. 
 Minimalistic design, feature-loaded, low-cost profile to meet the writers' needs and expectations.
 
-# Support TwelvePoint
-
 # Reviews are important!
 >[!IMPORTANT]
 > If you are already using TwelvePoint, please spend few minutes writing a review on the Apple Store, this will help us grow and give you a better support. 
