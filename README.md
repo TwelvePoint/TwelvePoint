@@ -67,11 +67,6 @@ Since 2017, TwelvePoint has become a valid alternative in the industry of script
 Minimalistic design, feature-loaded, low-cost profile to meet the writers' needs and expectations.
 
 # Support TwelvePoint
->[!IMPORTANT]
-> We are a small team that covers everything starting from the initial idea, the development, till the marketing phase. Our aim is to improve the quality of our software, increase the number of languages  supported and maintain a low cost, state-of-the-art solution.  The quick hardware refresh rate for mobile devices and Macs (at least twice a year), requires important investments for testing and development and it is here that your support can make a difference!
->
-> On our [Patreon](https://www.patreon.com/twelvepoint) page, you can give us a little support bu subscribing for the price of a coffee and learn more about writing. 
-Here we post periodically, articles, project samples, guidelines about screenwriting, comic scripts and books.
 
 # Reviews are important!
 >[!IMPORTANT]
