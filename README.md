@@ -11,7 +11,7 @@ Write without formatting constraints, always have a 360-degree view of your stor
 
 [Download the latest macOS release](https://apps.apple.com/lu/app/apple-store/id1191200443?pt=1462392&ct=WBHPD&mt=8)
 
-[Podcast on Spotify](https://open.spotify.com/show/1oGk4haga41cFe8wtamJji?si=q5fDbxYYRm2RmT5UXts3TQ))
+[Podcast on Spotify](https://open.spotify.com/show/1oGk4haga41cFe8wtamJji?si=q5fDbxYYRm2RmT5UXts3TQ)
 
 [𝕏](https://twitter.com/twelvepointapp)
 
