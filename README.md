@@ -1,5 +1,5 @@
+![image](https://github.com/user-attachments/assets/f2e604a9-e973-4eb1-9412-4aed82ccd0ef)
 
-![ ](https://www.twelvept.com/config/img/FB-twelvepoint-banner.jpg?137CD325A1CD4510A40112911F769284)
 
 A unique minimalist user interface packed with powerful features, TwelvePoint is the next-generation screenwriting app for macOS and iOS.
 Leveraging database technology gives you cutting-edge writing software.
